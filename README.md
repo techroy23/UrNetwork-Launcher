@@ -29,8 +29,8 @@ A tool that streamlines GitHub release management. It automatically detects syst
 1. Clone or download this repository.
 2. Create or Edit the `ENV.ini` file with:
    ```ini
-   USER=your_username
-   PASS=your_password
+   USER=email.email@email.com
+   PASS=myV3rYsEcUr3P@sSw0Rd
    ```
 3. Run the _start.bat
 
